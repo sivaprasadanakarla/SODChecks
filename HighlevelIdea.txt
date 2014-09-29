@@ -1,0 +1,4 @@
+1.List out all the servers and instanses needed to check on the server should be documented in the xls template given
+2.Write a java program to login to server/s using user name and password(taken from the xls)
+3.execute the ps -ef or psg with pattern command and get the result in list or any collection object
+4.prepare a report for all the instances listed in the xls document
